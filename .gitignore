@@ -1,0 +1,11 @@
+/.idea/*
+/__history/*
+/Debug_Build/
+/!BACKUP/
+/Calculations/
+/Release_Build/
+/images/
+/bpl/
+/*.obj
+/.htaccess
+/robots.txt

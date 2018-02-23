@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.02.06 23:13:28.203.cpp,D:\Мои документы\Borland Studio Projects\Unit1.cpp=D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Unit1.cpp</Transaction>
+    <Transaction>2010.02.06 23:13:28.203.h,D:\Мои документы\Borland Studio Projects\Unit1.h=D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Unit1.h</Transaction>
+    <Transaction>2010.02.06 23:13:28.203.dfm,D:\Мои документы\Borland Studio Projects\Unit1.dfm=D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Unit1.dfm</Transaction>
+    <Transaction>2010.02.06 23:13:30.156.bdsproj,D:\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Project1.bdsproj</Transaction>
+    <Transaction>2010.02.06 23:14:31.062.bdsproj,D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Project1.bdsproj=D:\Мои документы\Borland Studio Projects\Models\ImpulsII\ImpulseII.bdsproj</Transaction>
+    <Transaction>2010.02.06 23:15:13.375.cpp,D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Unit1.cpp=</Transaction>
+    <Transaction>2010.02.06 23:15:13.375.dfm,D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Unit1.dfm=</Transaction>
+    <Transaction>2010.02.06 23:15:30.812.bdsproj,D:\Мои документы\Borland Studio Projects\Models\ImpulsII\Project1.bdsproj=</Transaction>
+    <Transaction>2010.02.14 08:29:29.484.cpp,D:\Мои документы\ImpulsII\Unit1.cpp=D:\Мои документы\ImpulsII\TShowBorder.cpp</Transaction>
+    <Transaction>2010.02.14 08:29:29.500.h,D:\Мои документы\ImpulsII\Unit1.h=D:\Мои документы\ImpulsII\TShowBorder.h</Transaction>
+    <Transaction>2010.02.14 08:29:29.500.dfm,D:\Мои документы\ImpulsII\Unit1.dfm=D:\Мои документы\ImpulsII\TShowBorder.dfm</Transaction>
+    <Transaction>2010.02.15 16:03:35.140.cpp,D:\Мои документы\ImpulsII\Unit1.cpp=D:\Мои документы\ImpulsII\TCalcWindow.cpp</Transaction>
+    <Transaction>2010.02.15 16:03:35.140.h,D:\Мои документы\ImpulsII\Unit1.h=D:\Мои документы\ImpulsII\TCalcWindow.h</Transaction>
+    <Transaction>2010.02.15 16:03:35.140.dfm,D:\Мои документы\ImpulsII\Unit1.dfm=D:\Мои документы\ImpulsII\TCalcWindow.dfm</Transaction>
+    <Transaction>2010.02.17 16:07:09.781.cpp,D:\Мои документы\ImpulsII\Unit1.cpp=D:\Мои документы\ImpulsII\TPressOne.cpp</Transaction>
+    <Transaction>2010.02.17 16:07:09.796.h,D:\Мои документы\ImpulsII\Unit1.h=D:\Мои документы\ImpulsII\TPressOne.h</Transaction>
+    <Transaction>2010.02.17 16:07:09.796.dfm,D:\Мои документы\ImpulsII\Unit1.dfm=D:\Мои документы\ImpulsII\TPressOne.dfm</Transaction>
+    <Transaction>2010.02.24 14:03:00.546.cpp,D:\Мои документы\ImpulsII\Unit1.cpp=D:\Мои документы\ImpulsII\TPressWin.cpp</Transaction>
+    <Transaction>2010.02.24 14:03:00.546.h,D:\Мои документы\ImpulsII\Unit1.h=D:\Мои документы\ImpulsII\TPressWin.h</Transaction>
+    <Transaction>2010.02.24 14:03:00.546.dfm,D:\Мои документы\ImpulsII\Unit1.dfm=D:\Мои документы\ImpulsII\TPressWin.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

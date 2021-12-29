@@ -6,16 +6,23 @@
 4. 	Модуль расчета расширения газовой полости, образовавшейся при пробое в жидкости.
 5. 	Модуль вывода полей распределения потенциала, скорости, давления, энергии и записи полученных результатов в файл. 
 
+## Внешний вид 
+https://github.com/aishtifanov/ImpulsII/blob/master/Articles/Screenshots.pdf
+
 ## Статьи
+1. Потапенко А.Н., Штифанов А.И. МОДЕЛИРОВАНИЕ ВОЛНОВЫХ ПРОЦЕССОВ ПРИ ЭЛЕКТРОРАЗРЯДАХ В ЖИДКОСТИ 
+https://github.com/aishtifanov/ImpulsII/blob/master/Articles/MMIT_Potapenko.pdf
+2. Штифанов А.И. ПРОГРАММА МОДЕЛИРОВАНИЯ ЭЛЕКТРИЧЕСКОГО ПОЛЯ В РАЗРЯДНОМ БЛОКЕ ЭЛЕКТРОГИДРАВЛИЧЕСКОЙ УСТАНОВКИ
+https://github.com/aishtifanov/ImpulsII/blob/master/Articles/MMIT_Shtifanov.pdf
+3. Штифанов А.И. Численное моделирование волновых процессов в жидкости при электроразрядах и детонациях газовых смесей. Автореферат диссертации по информатике, вычислительной технике и управлению, 05.13.16
+https://github.com/aishtifanov/ImpulsII/blob/master/Articles/AVTOREFERAT.pdf
 
 
 ## Компилятор
 Программа разрабатывалась в среде Borland Turbo C++ 2006 Professional Edition.
 
-
 ## Автор
-* Andrey Shtifanov
-
+Andrey Shtifanov
 
 ## Лицензия
 The GNU GENERAL PUBLIC LICENSE.

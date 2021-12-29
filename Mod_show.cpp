@@ -152,7 +152,7 @@ void CModel2D :: ShowEquLines(HDC hDC, EWhatShow ews, double MaxValue,
 	 } // for i
   }
   */
-  /*
+
   x = rModelN.right + 20;
   y = rModelN.top;
 
@@ -185,7 +185,7 @@ void CModel2D :: ShowEquLines(HDC hDC, EWhatShow ews, double MaxValue,
 	 TextOut(hDC, x*ScaleShow + 50, y*ScaleShow, str, lstrlen(str));
 	 y += 20;
   }
-  */
+ 
   x = rModelN.left*ScaleShow;
   y = (rModelN.bottom+10)*ScaleShow;
 
